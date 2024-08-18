@@ -11,15 +11,15 @@
   "Proyecto": [
     {
       "id": 101,
-      "nombre": "Proyecto Ejemplo",
-      "descripcion": "Descripción del proyecto"
+      "nombre": "Proyecto Sociales",
+      "descripcion": "Evaluación de conocimientos"
     }
   ],
   "Tarea": [
     {
       "id": 201,
-      "nombre": "Tarea Ejemplo",
-      "descripcion": "Descripción de la tarea",
+      "nombre": "Tarea Español",
+      "descripcion": "Conocimiento Edad Barroca",
       "proyecto_id": 101,
       "estado": "En progreso",
       "fecha_inicio": "2024-08-01",
